@@ -11,7 +11,6 @@ The collection of data used a secondary data which are from worldbank website. T
 Data Source : https://www.worldbank.org/ext/en/home
 
 # Regression result
-pictures :
 <img width="545" height="149" alt="Screenshot (1017)" src="https://github.com/user-attachments/assets/10ae404c-628f-4556-993e-d3fdae9c038b" />
 
 # Results 
